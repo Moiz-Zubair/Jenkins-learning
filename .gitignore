@@ -1,0 +1,8 @@
+# Jenkins data
+jenkins_home/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
