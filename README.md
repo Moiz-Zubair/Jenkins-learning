@@ -33,5 +33,3 @@ The goal of this repo is not just to get Jenkins up and running but to **learn i
 ## 🚧 Work in Progress
 
 This repo will evolve as I continue to learn. Expect frequent updates and experimental code/configurations.  
-
----
